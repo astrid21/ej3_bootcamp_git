@@ -1,1 +1,4 @@
 Astrid: Esto es un texto
+Astrid: esto es mas texto
+astrid: mas texto
+Astrid Mas texto
