@@ -1,5 +1,9 @@
 Astrid: Esto es un texto
-Martin: Uno dos tres, uno dos tres, uno dos tres, uno dos tres
+
+uno dos tres, uno dos tres, uno dos tres
                           -Sargento Garcia
 
+Astrid: esto es mas texto
+astrid: mas texto
+Astrid Mas texto
 
